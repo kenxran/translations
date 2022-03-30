@@ -12,11 +12,11 @@
     <name>ColorPicker</name>
     <message>
         <source>Press %1 to copy color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nhấn phím %1 để sao copy màu</translation>
     </message>
     <message>
         <source>Press %1 to switch between RGB/HEX</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nhấn %1 để chuyển đổi giữa RGB/HEX</translation>
     </message>
 </context>
 <context>
@@ -166,11 +166,11 @@ Please contact the developer.</source>
     </message>
     <message>
         <source>Beta for Mac</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Beta cho Mac</translation>
     </message>
     <message>
         <source>PRO Features</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đặc trưng PRO</translation>
     </message>
 </context>
 <context>
